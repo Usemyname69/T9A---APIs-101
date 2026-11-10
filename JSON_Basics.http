@@ -1,8 +1,13 @@
-## ENDPOINT:
+## ENDPOINT:The URL an API is accessed from
+## CALL: A request made to an API
+##API: Application Programming Interface
+## Response: What the API returns when a call is made
+## JSON: Javascript Object Notation
+## Entity: Row in a Table behind an PAI
 
 
-## POST:
-## GET:
-## PUT:
-## PATCH:
-## DELETE:
+## POST:To Add New Information
+## GET:To Pull Information
+## PUT:To Update a Whole Entity
+## PATCH:To Update Part of an Entity
+## DELETE:To Remove An Entity
